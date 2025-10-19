@@ -1,0 +1,360 @@
+# Tier 1
+
+- type: technology
+  id: TypanSalvageWeapons
+  name: research-technology-salvage-weapons
+  icon:
+    sprite: Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - WeaponProtoKineticAccelerator
+  - ShuttleGunKineticCircuitboard
+  - BorgModuleMiningWeapon
+
+- type: technology
+  id: TypanDraconicMunitions
+  name: research-technology-draconic-munitions
+  icon:
+    sprite: _Mini/Objects/Weapons/Guns/Ammunition/Boxes/pistol.rsi
+    state: incendiarydisplay
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - BoxShotgunIncendiary
+  - MagazineRifleIncendiary
+  - MagazinePistolIncendiary
+  - MagazinePistolSubMachineGunIncendiary
+  - MagazineLightRifleIncendiary
+  - SpeedLoaderMagnumIncendiary
+  - MagazineShotgunIncendiary
+  - MagazineBoxPistolIncendiary
+  - MagazineBoxMagnumIncendiary
+  - MagazineBoxLightRifleIncendiary
+  - MagazineBoxRifleIncendiary
+  - MagazineBox357Incendiary
+
+- type: technology
+  id: TypanNonlethalAmmunition
+  name: research-technology-nonlethal-ammunition
+  icon:
+    sprite: Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi
+    state: beanbag
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - MagazineShotgunBeanbag
+  - BoxShellTranquilizer
+  - BoxBeanbag
+  - WeaponDisabler
+
+- type: technology
+  id: TypanUraniumMunitions
+  name: research-technology-uranium-munitions
+  icon:
+    sprite: Objects/Materials/Sheets/other.rsi
+    state: uranium
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - MagazineRifleUranium
+  - MagazinePistolUranium
+  - MagazinePistolSubMachineGunUranium
+  - MagazineLightRifleUranium
+  - SpeedLoaderMagnumUranium
+  - MagazineBoxPistolUranium
+  - MagazineBoxMagnumUranium
+  - MagazineBoxLightRifleUranium
+  - MagazineBoxRifleUranium
+  - BoxShotgunUranium
+
+- type: technology
+  id: TypanAdvancedRiotControl
+  name: research-technology-advanced-riot-control
+  icon:
+    sprite: Objects/Weapons/Melee/truncheon.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - Truncheon
+  - TelescopicShield
+  - HoloprojectorSecurity
+  - WeaponDisablerSMG
+
+- type: technology
+  id: TypanExplosiveTechnology
+  name: research-technology-explosive-technology
+  icon:
+    sprite: Objects/Devices/payload.rsi
+    state: payload-explosive-armed
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - SignallerAdvanced
+  - SignalTrigger
+  - VoiceTrigger
+  - TimerTrigger
+  - FlashPayload
+  - ExplosivePayload
+  - ChemicalPayload
+
+- type: technology
+  id: TypanSpecialMeans
+  name: research-technology-special-means
+  icon:
+    sprite: Clothing/Back/Backpacks/electropack.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - ClothingBackpackElectropack
+
+- type: technology
+  id: TypanBasicPistols
+  name: research-technology-basic-pistols
+  icon:
+    sprite: Objects/Weapons/Guns/Pistols/viper.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - WeaponPistolViper
+  - WeaponRevolverPython
+
+- type: technology
+  id: TypanEdgedWeapons
+  name: research-technology-edged-weapons
+  icon:
+    sprite: Clothing/Hands/Gloves/KnuckleDusters/syndicateknuckleduster.rsi
+    state: syndicateknuckleduster
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - ClothingHandsKnuckleDustersSyndicate
+  - ThrowingKnife
+
+- type: technology
+  id: TypanCombatGloves
+  name: research-technology-combat-gloves
+  icon:
+    sprite: Clothing/Hands/Gloves/northstar.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - ClothingHandsGlovesNorthStar
+  - ClothingHandsGlovesBoxingRigged
+
+- type: technology
+  id: TypanBasicRifles
+  name: research-technology-basic-rifles
+  icon:
+    sprite: Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
+    state: base
+  discipline: TypanWeaponry
+  tier: 1
+  cost: 7500
+  recipeUnlocks:
+  - WeaponSniperMosin
+
+# Tier 2
+
+- type: technology
+  id: TypanBasicShuttleArmament
+  name: research-technology-shuttle-weapon
+  icon:
+    sprite: Objects/Weapons/Guns/Ammunition/Magazine/Grenade/grenade_cartridge.rsi
+    state: base
+  discipline: TypanWeaponry
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - PowerCageRechargerCircuitboard
+  - PowerCageSmall
+  - PowerCageMedium
+  - PowerCageHigh
+  - MagazineGrenadeEmpty
+  - GrenadeFlash
+  - GrenadeBlast
+  - GrenadeEMP
+  - ShuttleGunSvalinnMachineGunCircuitboard
+  - ShuttleGunPerforatorCircuitboard
+  - ShuttleGunFriendshipCircuitboard
+  - ShuttleGunDusterCircuitboard
+  technologyPrerequisites:
+  - TypanSalvageWeapons
+  - TypanExplosiveTechnology
+
+- type: technology
+  id: TypanNightVisionTechnology
+  name: research-technology-night-vision-technology
+  icon:
+    sprite: _Mini/Clothing/Eyes/Hud/pnv-synd.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - ClothingEyesPNVAdvSyndicate
+
+- type: technology
+  id: TypanAdvancedPistols
+  name: research-technology-advanced-pistols
+  icon:
+    sprite: Objects/Weapons/Guns/Pistols/cobra.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - WeaponPistolCobra
+  - WeaponPistolDesertEagle
+  technologyPrerequisites:
+  - TypanBasicPistols
+
+- type: technology
+  id: TypanGrenades
+  name: research-technology-grenades
+  icon:
+    sprite: Objects/Weapons/Grenades/shrapnelgrenade.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - GrenadeShrapnel
+  - ExGrenade
+  - GrenadeFlashBang
+  - SmokeGrenade
+  - GrenadeIncendiary
+  - ClusterGrenade
+  - EmpGrenade
+  technologyPrerequisites:
+  - TypanExplosiveTechnology
+
+- type: technology
+  id: TypanSniperRifles
+  name: research-technology-sniper-rifles
+  icon:
+    sprite: Objects/Weapons/Guns/Snipers/heavy_sniper.rsi
+    state: base
+  discipline: TypanWeaponry
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - WeaponSniperHristov
+  technologyPrerequisites:
+  - TypanBasicRifles
+
+- type: technology
+  id: TypanSMGs
+  name: research-technology-smgs
+  icon:
+    sprite: Objects/Weapons/Guns/SMGs/c20r.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - WeaponSubMachineGunC20r
+  - WeaponSMGTommyGun
+  technologyPrerequisites:
+  - TypanBasicRifles
+
+- type: technology
+  id: TypanAssaultRifles
+  name: research-technology-assault-rifles
+  icon:
+    sprite: _ADT/Objects/Weapons/Guns/Rifels/xc67.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - ADTWeaponRifleXC67
+  - WeaponRifleAk
+  technologyPrerequisites:
+  - TypanBasicRifles
+
+- type: technology
+  id: TypanShotguns
+  name: research-technology-shotguns
+  icon:
+    sprite: Objects/Weapons/Guns/Shotguns/bulldog.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - WeaponShotgunBulldog
+
+# Tier 3
+
+- type: technology
+  id: TypanExperimentalGrenades
+  name: research-technology-experimental-grenades
+  icon:
+    sprite: Objects/Weapons/Grenades/holyhandgrenade.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 3
+  cost: 30000
+  recipeUnlocks:
+  - HolyHandGrenade
+  - WhiteholeGrenade
+  - SingularityGrenade
+  technologyPrerequisites:
+  - TypanGrenades
+  - TypanBasicShuttleArmament
+
+- type: technology
+  id: TypanHeavyWeapons
+  name: research-technology-heavy-weapons
+  icon:
+    sprite: Objects/Weapons/Guns/LMGs/l6.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 3
+  cost: 30000
+  recipeUnlocks:
+  - WeaponLightMachineGunL6
+  technologyPrerequisites:
+  - TypanAssaultRifles
+
+- type: technology
+  id: TypanGrenadeLaunchers
+  name: research-technology-grenade-launchers
+  icon:
+    sprite: Objects/Weapons/Guns/Launchers/china_lake.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 3
+  cost: 30000
+  recipeUnlocks:
+  - WeaponLauncherChinaLake
+  technologyPrerequisites:
+  - TypanGrenades
+
+- type: technology
+  id: TypanSpecialWeapons
+  name: research-technology-special-weapons
+  icon:
+    sprite: _Mini/Objects/Weapons/Guns/Bow/crossbow.rsi
+    state: icon
+  discipline: TypanWeaponry
+  tier: 3
+  cost: 30000
+  recipeUnlocks:
+  - WeaponEnergyCrossbow
