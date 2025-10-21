@@ -125,7 +125,7 @@
         Blunt: 0.6
         Slash: 0.6
         Piercing: 0.6
-        Heat: 0.8
+        Heat: 0.6
         Radiation: 0.5
   - type: ClothingSpeedModifier
     walkModifier: 0.9
@@ -293,8 +293,8 @@
 - type: entity
   parent: ClothingOuterHardsuitSecurity
   id: ClothingOuterHardsuitTypanRecruit
-  name: скафандр рекрута
-  description: Укреплённый скафандр с бронепластинами, предназначенный для работы в космосе.
+  name: скафандр патрульного
+  description: Укреплённый скафандр с бронепластинами, предназначенный для работы в космосе. Немного повышает вашу скорость.
   components:
   - type: Sprite
     sprite: _Mini/Clothing/OuterClothing/Hardsuits/typan_patrol.rsi
@@ -305,6 +305,17 @@
       head: ClothingHeadHelmetHardsuitTypanRecruit
   - type: Tag
     tags: [] # ignore "WhitelistChameleon" tag
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.6
+        Slash: 0.6
+        Piercing: 0.6
+        Heat: 0.6
+        Radiation: 0.5
+  - type: ClothingSpeedModifier
+    walkModifier: 1.1
+    sprintModifier: 1.1
 
 - type: entity
   parent: ClothingOuterHardsuitSecurityRed

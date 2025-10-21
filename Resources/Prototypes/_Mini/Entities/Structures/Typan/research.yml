@@ -49,7 +49,7 @@
       - state: server_o
         map: ["enum.WiresVisualLayers.MaintenancePanel"]
   - type: ResearchServer
-    isTypan: true
+#   isTypan: true
   - type: TechnologyDatabase
     supportedDisciplines:
     - TypanMechworks
@@ -81,7 +81,7 @@
     - state: panel
       map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Machine
     board: AnomalyVesselCircuitboardTypan
   - type: PointLight
@@ -101,7 +101,7 @@
     offset: 0,0.5
     drawdepth: Mobs
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Machine
     board: AnomalyVesselExperimentalCircuitboardTypan
   - type: PointLight

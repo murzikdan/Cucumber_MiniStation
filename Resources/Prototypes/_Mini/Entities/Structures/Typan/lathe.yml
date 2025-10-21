@@ -27,7 +27,7 @@
         - RawMaterial
         - Ingot
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Lathe
     idleState: icon
     runningState: building
@@ -70,7 +70,7 @@
   - type: Machine
     board: AutolatheHyperConvectionMachineCircuitboardTypan
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
 
 - type: entity
   id: ProtolatheTypan
@@ -101,7 +101,7 @@
         - RawMaterial
         - Ingot
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Lathe
     idleState: icon
     runningState: building
@@ -136,7 +136,7 @@
   - type: Machine
     board: ProtolatheHyperConvectionMachineCircuitboardTypan
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
 
 - type: entity
   id: CircuitImprinterTypan
@@ -159,7 +159,7 @@
   - type: Machine
     board: CircuitImprinterMachineCircuitboardTypan
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Lathe
     producingSound: /Audio/Machines/circuitprinter.ogg
     idleState: icon
@@ -202,7 +202,7 @@
   - type: Machine
     board: CircuitImprinterHyperConvectionMachineCircuitboardTypan
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
 
 - type: entity
   id: ExosuitFabricatorTypan
@@ -223,7 +223,7 @@
   - type: Machine
     board: ExosuitFabricatorMachineCircuitboardTypan
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Lathe
     idleState: fab-idle
     runningState: fab-active
@@ -261,7 +261,7 @@
   - type: Machine
     board: UniformPrinterMachineCircuitboardTypan
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Lathe
     producingSound: /Audio/Machines/uniformprinter.ogg
     idleState: icon
@@ -320,7 +320,7 @@
         - Sheet
         - RawMaterial
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Lathe
     idleState: icon
     runningState: building
@@ -350,7 +350,7 @@
     - state: panel
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Lathe
     idleState: icon
     runningState: icon
@@ -392,7 +392,7 @@
   - type: Machine
     board: WeaponryTechFabCircuitboardTypan
   - type: ResearchClient
-    isTypan: true
+#   isTypan: true
   - type: Lathe
     idleState: icon
     runningState: icon

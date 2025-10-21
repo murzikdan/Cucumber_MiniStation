@@ -425,7 +425,7 @@
 - type: entity
   id: LockerTypanRecruit
   parent: LockerTypanBaseSecure
-  name: шкаф рекрута
+  name: шкаф патрульного
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: sec

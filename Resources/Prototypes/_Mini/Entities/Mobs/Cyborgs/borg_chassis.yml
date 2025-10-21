@@ -45,7 +45,7 @@
     interactSuccessSound:
       path: /Audio/Ambience/Objects/periodic_beep.ogg
   - type: BorgTransponder
-    isTypan: true
+#   isTypan: true
     name: typan cyborg
 
 - type: entity
@@ -72,7 +72,7 @@
     sprite:
       sprite: _Mini/Mobs/Silicon/chassis.rsi
       state: robot
-    isTypan: true
+#   isTypan: true
     name: typan cyborg
   - type: BorgSwitchableType
     inherentRadioChannels:
@@ -109,7 +109,7 @@
     sprite:
       sprite: _Mini/Mobs/Silicon/chassis.rsi
       state: robot
-    isTypan: true
+#   isTypan: true
     name: typan generic cyborg
 
 # Typan Engineer
@@ -142,7 +142,7 @@
     sprite:
       sprite: _Mini/Mobs/Silicon/chassis.rsi
       state: engineer
-    isTypan: true
+#   isTypan: true
     name: typan engineer cyborg
 
 # Typan Mining
@@ -175,7 +175,7 @@
     sprite:
       sprite: _Mini/Mobs/Silicon/chassis.rsi
       state: miner
-    isTypan: true
+#   isTypan: true
     name: typan mining cyborg
 
 # Typan Janitor
@@ -208,7 +208,7 @@
     sprite:
       sprite: _Mini/Mobs/Silicon/chassis.rsi
       state: janitor
-    isTypan: true
+#   isTypan: true
     name: typan janitor cyborg
 
 # Typan Medical
@@ -241,7 +241,7 @@
     sprite:
       sprite: _Mini/Mobs/Silicon/chassis.rsi
       state: medical
-    isTypan: true
+#   isTypan: true
     name: typan medical cyborg
 
 # Typan Service
@@ -269,7 +269,7 @@
     sprite:
       sprite: _Mini/Mobs/Silicon/chassis.rsi
       state: service
-    isTypan: true
+#   isTypan: true
     name: typan service cyborg
 
 # Typan Security
@@ -302,5 +302,5 @@
     sprite:
       sprite: _Mini/Mobs/Silicon/chassis.rsi
       state: sec
-    isTypan: true
+#   isTypan: true
     name: typan security cyborg

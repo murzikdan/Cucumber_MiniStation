@@ -55,7 +55,7 @@
 - type: entity
   id: SuitStorageTypanRecruitFilled
   parent: SuitStorageTypanBase
-  suffix: Тайпан
+  suffix: Тайпан, Патрульный
   components:
   - type: StorageFill
     contents:
@@ -64,15 +64,15 @@
   - type: AccessReader
     access: [["TypanCommand"]]
 
-# # Офицер телекоммуникаций
-# - type: entity
-#   id: SuitStorageTypanCOFilled
-#   parent: SuitStorageTypanBase
-#   suffix: Тайпан, командир
-#   components:
-#   - type: StorageFill
-#     contents:
-#     - id: OxygenTankFilled
-#     - id: ClothingOuterHardsuitTypanCommunicationsOfficer
-#   - type: AccessReader
-#     access: [["TypanCommander"]]
+# Офицер телекоммуникаций
+- type: entity
+  id: SuitStorageTypanCOFilled
+  parent: SuitStorageTypanBase
+  suffix: Тайпан, Командир
+  components:
+  - type: StorageFill
+    contents:
+    - id: OxygenTankFilled
+    - id: ClothingOuterHardsuitSyndieElite
+  - type: AccessReader
+    access: [["TypanCommander"]]
