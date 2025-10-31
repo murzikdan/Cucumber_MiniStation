@@ -1,6 +1,6 @@
 <Document>
 
-  <ColorBox Color="#2a3a2a" OutlineColor="#4a5a4a" OutlineThickness="2" Margin="5">
+  <ColorBox Color="#2a3a2a" OutlineColor="#4a5a4a" OutlineThickness="2" Margin="1">
     <Box Orientation="Vertical">
       <Box Orientation="Horizontal" HorizontalAlignment="Center">
         Правило 1: Гриф
@@ -12,12 +12,8 @@
 
         Попытки варки Лимитки также считаются нарушением.
 
-        Даже если вы не извлекаете выгоды, но намеренно наносите урон станции или игрокам ради удовольствия — это гриф.
-
-      - [textlink="1.1 Манчкинизм" link="DefaultRule11"]
-      - [textlink="1.2 Массовый гриф" link="DefaultRule12"]
-
       </Box>
+        Даже если вы не извлекаете выгоды, но намеренно наносите урон станции или игрокам ради удовольствия — это гриф.
     </Box>
   </Box>
   </ColorBox>

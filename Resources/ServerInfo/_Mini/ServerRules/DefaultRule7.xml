@@ -1,54 +1,16 @@
 <Document>
-  <ColorBox Color="#3a2a2a" OutlineColor="#5a4a4a" OutlineThickness="2" Margin="5">
+  <ColorBox Color="#3a2a2a" OutlineColor="#5a4a4a" OutlineThickness="2" Margin="1">
     <Box Orientation="Vertical">
       <Box Orientation="Horizontal" HorizontalAlignment="Center">
         Правило 7: Валидхант
       </Box>
       <Box Orientation="Vertical" Margin="10">
         Охота на антагонистов — прерогатива СБ. Обычные игроки не должны бросать работу ради охоты.
-        <Box Orientation="Vertical" Margin="10">
-
       </Box>
-    </Box>
-
-   <Box Orientation="Vertical" Margin="10">
-        7.1. Защита и преследование
-
-        Вы можете защищать себя и других, если стали свидетелем нападения.
-        <Box Orientation="Vertical" Margin="10">
-         После отражения атаки преследовать антагониста не нужно.
-
-         Если кто-то похищен — погоня разрешена, но цель — спасение, а не убийство.
-        </Box>
-      </Box>
-
-   <Box Orientation="Vertical" Margin="10">
-        7.2. Специальные роли
-
-        Капитан или глава не могут создавать "охотников" вне СБ (например, "Охотник на вампиров").
-        <Box Orientation="Vertical" Margin="10">
-         Если хотите охотиться — вступите в СБ.
-        </Box>
-     </Box>
-
-   <Box Orientation="Vertical" Margin="10">
-        7.3. Отсутствие СБ
-
-        Если СБ и главы отсутствуют, вам разрешено защищать станцию в меру сил.
-        <Box Orientation="Vertical" Margin="10">
-
-        </Box>
-      </Box>
-
-   <Box Orientation="Vertical" Margin="10">
-        7.4. Доказательства
-
-        Чтобы считать кого-то антагонистом, необходимо доказательство или свидетельство.
-        <Box Orientation="Vertical" Margin="10">
-
-        </Box>
-
-      </Box>
-    </Box>
+    - [textlink="7.1 Защита и преследование" link="DefaultRule71"]
+    - [textlink="7.2 Специальные роли" link="DefaultRule72"]
+    - [textlink="7.3 Отсутствие СБ" link="DefaultRule73"]
+    - [textlink="7.4 Доказательства" link="DefaultRule74"]
+   </Box>
   </ColorBox>
 </Document>

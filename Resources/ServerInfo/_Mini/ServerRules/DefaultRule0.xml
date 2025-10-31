@@ -1,5 +1,5 @@
 <Document>
-  <ColorBox Color="#2a2a3a" OutlineColor="#4a4a5a" OutlineThickness="2" Margin="5">
+  <ColorBox Color="#2a2a3a" OutlineColor="#4a4a5a" OutlineThickness="2" Margin="1">
     <Box Orientation="Vertical">
       <Box Orientation="Horizontal" HorizontalAlignment="Center">
         Правило 0: Не будь мудаком.

@@ -1,6 +1,6 @@
 <Document>
 
-  <ColorBox Color="#2a2a3a" OutlineColor="#4a4a5a" OutlineThickness="2" Margin="5">
+  <ColorBox Color="#2a2a3a" OutlineColor="#4a4a5a" OutlineThickness="2" Margin="1">
     <Box Orientation="Vertical">
       <Box Orientation="Horizontal" HorizontalAlignment="Center">
         Правило 4: Логика персонажей.
@@ -18,11 +18,6 @@
         Закатывать истерики или увольняться без причины — нарушение логики персонажа.
         </Box>
         Играйте свою роль честно и ответственно. Не забывайте, что мы находимся в далеком будущем, в эпохе исследований и открытий.
-
-        - [textlink="4.1 Чрезмерное оскорбление в IC" link="DefaultRule41"]
-        - [textlink="4.2 Неприемлемое поведение для занимаемой должности" link="DefaultRule42"]
-        - [textlink="4.3 Ограничение на профессиональные навыки" link="DefaultRule43"]
-        - [textlink="4.4 Выход из игры" link="DefaultRule44"]
       </Box>
     </Box>
   </ColorBox>

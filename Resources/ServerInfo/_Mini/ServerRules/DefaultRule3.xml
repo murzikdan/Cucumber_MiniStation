@@ -1,6 +1,6 @@
 <Document>
 
-  <ColorBox Color="#2a2a3a" OutlineColor="#4a4a5a" OutlineThickness="2" Margin="5">
+  <ColorBox Color="#2a2a3a" OutlineColor="#4a4a5a" OutlineThickness="2" Margin="1">
     <Box Orientation="Vertical">
       <Box Orientation="Horizontal" HorizontalAlignment="Center">
         Правило 3: Нарушение игровой атмосферы.
@@ -13,15 +13,6 @@
         При любых ИРЛ или технических обстоятельствах рекомендуется сообщить об этом через LOOC.
         </Box>
         Играйте свою роль честно и ответственно. Не забывайте, что мы находимся в далеком будущем, в эпохе исследований и открытий.
-
-        - [textlink="3.1 Повергейминг" link="DefaultRule31"]
-        - [textlink="3.2 Метагейминг" link="DefaultRule32"]
-        - [textlink="3.3 IC в LOOC или OOC" link="DefaultRule33"]
-        - [textlink="3.4 Самоубийство" link="DefaultRule34"]
-        - [textlink="3.5 Безграмотность" link="DefaultRule35"]
-        - [textlink="3.6 Ступиднейм" link="DefaultRule36"]
-        - [textlink="3.7 Ступид объявления" link="DefaultRule37"]
-        - [textlink="3.8 Конец раунда" link="DefaultRule38"]
       </Box>
     </Box>
   </ColorBox>
