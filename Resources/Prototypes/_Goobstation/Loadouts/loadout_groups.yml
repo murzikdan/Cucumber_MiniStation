@@ -977,6 +977,7 @@
   loadouts:
   - BlueshieldOfficerHeadSwatHelmet
   - BlueshieldOfficerBeret
+  - BlueshieldOfficerBeretAlt
   - BlueshieldOfficerHeadCowboy
   - BlueshieldOfficerGoidaHelmet
 
@@ -1029,6 +1030,7 @@
   minLimit: 0
   loadouts:
   - BlueshieldOfficerMaskLollypop
+  - BlueshieldOfficerMaskGaiter
 
 - type: loadoutGroup
   id: BlueshieldOfficerShoes
