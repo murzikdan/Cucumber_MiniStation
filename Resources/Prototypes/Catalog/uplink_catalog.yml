@@ -2361,3 +2361,18 @@
   - !type:BuyerJobCondition
     whitelist:
     - Chaplain
+
+- type: listing
+  id: UplinkPinpointer
+  name: Пинпоинтер агента
+  description: Показывает местонахождение целей, может быть полезно. Цели нужно выбирать из списка.
+  productEntity: PinpointerSyndicateUniversal
+  cost:
+    Telecrystal: 1 # goob
+  categories:
+  - UplinkDeception
+  conditions:
+  - !type:StoreWhitelistCondition
+    blacklist:
+      tags:
+      - NukeOpsUplink
