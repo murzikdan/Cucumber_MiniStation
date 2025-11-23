@@ -112,3 +112,13 @@
   - CosmicCult
   - Heretic
   - Changeling
+
+- type: incompatibleModes
+  id: Shadowling
+  modes:
+  - Shadowling
+
+- type: incompatibleModes
+  id: Devil
+  modes:
+  - Devil
