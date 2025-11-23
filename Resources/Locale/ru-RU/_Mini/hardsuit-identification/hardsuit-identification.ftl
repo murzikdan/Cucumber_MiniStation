@@ -1,5 +1,5 @@
 hardsuit-identification-error = Ошибка идентификации.
-hardsuit-identification-error-spikes = От резкой боли вы пытается снять скафандр, но видимо уже слишком поздно.
+hardsuit-identification-error-spikes = Обнаружена чужеродная ДНК! Самоуничтожение! Вы пытаетесь снять скафандр, но видимо уже слишком поздно...
 hardsuit-identification-dna-already-stored = Скафандр уже сохранил ДНК и не может его переписать.
 hardsuit-identification-dna-was-stored = Скафандр записал ДНК пользователя.
 hardsuit-identification-dna-not-presented = Скафандр не смог обнаружить у пользователя ДНК для записи.
