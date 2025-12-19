@@ -191,6 +191,8 @@
     - id: Dropper
     - id: HandLabeler
     - id: ClothingUniformOveralls
+    - id: ADTBotanicalSeedDNAManipulatorCircuitboard
+      prob: 0.5
     - id: ClothingHeadHatTrucker
       prob: 0.1
 
