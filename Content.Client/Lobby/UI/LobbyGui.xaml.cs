@@ -16,7 +16,7 @@ using Content.Shared.Ghost;
 using Content.Client.Ghost;
 using Content.Client.UserInterface.Systems.Ghost;
 using Content.Client.ADT.Roadmap;
-using Content.Goobstation.Client.Patron;
+// using Content.Goobstation.Client.Patron;
 
 namespace Content.Client.Lobby.UI
 
