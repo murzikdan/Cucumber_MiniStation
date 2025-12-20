@@ -443,8 +443,8 @@
 - type: entity
   parent: [ClothingHandsGlovesCombat, BaseSyndicateContraband]
   id: ClothingHandsGlovesGuerrilla
-  name: guerrilla gloves
-  description: Superior quality combative gloves, good for grabs as well as absorbing electrical shocks.
+  name: партизанские перчатки
+  description: Перчатки высшего качества для рукопашного боя, хорошо подходят для захватов, а также поглощают электрические разряды.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Hands/Gloves/guerrilla.rsi

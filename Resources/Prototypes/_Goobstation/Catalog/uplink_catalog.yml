@@ -566,7 +566,7 @@
   icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndiecommander.rsi, state: icon }
   productEntity: ClothingOuterHardsuitSyndieCommander
   cost:
-    Telecrystal: 20 # novelty item for the larp, doesnt come with bundle though because bulky fuck
+    Telecrystal: 12 # novelty item for the larp, doesnt come with bundle though because bulky fuck
   categories:
   - UplinkWearables
   conditions:
@@ -585,7 +585,7 @@
   icon: { sprite: /Textures/_Goobstation/Clothing/OuterClothing/Hardsuits/cybersunstealth.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateStealthHardsuitBundle
   cost:
-    Telecrystal: 16
+    Telecrystal: 14
   categories:
   - UplinkWearables
 
@@ -618,7 +618,7 @@
   icon: { sprite: /Textures/_Goobstation/Clothing/Hands/Gloves/guerrilla.rsi, state: icon }
   productEntity: ClothingHandsGlovesGuerrilla
   cost:
-    Telecrystal: 10
+    Telecrystal: 12
   categories:
   - UplinkWearables
 
@@ -659,7 +659,7 @@
   icon: { sprite: /Textures/_Goobstation/Objects/Weapons/Melee/hisgrace.rsi, state: icon }
   productEntity: HisGrace
   cost:
-    Telecrystal: 20
+    Telecrystal: 12
   categories:
   - UplinkJob
   conditions:
@@ -679,7 +679,7 @@
   description: Make the floor slippery!
   productEntity: LubeGrenade
   cost:
-    Telecrystal: 3
+    Telecrystal: 2
   categories:
     -  UplinkJob
   conditions:
@@ -695,7 +695,7 @@
   description: Make the floor hard to walk in!
   productEntity: GlueGrenade
   cost:
-    Telecrystal: 2
+    Telecrystal: 1
   categories:
     -  UplinkJob
   conditions:
@@ -711,7 +711,7 @@
   icon: { sprite: /Textures/_Goobstation/Objects/Vehicles/clowncar.rsi, state: clowncar }
   productEntity: CrateFunClownCarUplink
   cost:
-    Telecrystal: 8
+    Telecrystal: 6
   categories:
   - UplinkJob
   conditions:
@@ -752,7 +752,7 @@
   description: uplink-beenades-desc
   productEntity: BeeGrenade
   cost:
-    Telecrystal: 8
+    Telecrystal: 4
   categories:
   - UplinkJob
   conditions:
@@ -828,7 +828,7 @@
   description: uplink-advanced-combat-medipen-desc
   productEntity: AdvancedCombatMedipen
   cost:
-    Telecrystal: 6
+    Telecrystal: 5
   categories:
   - UplinkChemicals
 
