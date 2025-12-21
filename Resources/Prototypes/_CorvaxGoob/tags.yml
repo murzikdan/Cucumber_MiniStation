@@ -28,6 +28,9 @@
   id: DroneShuttleLinkable
 
 - type: Tag
+  id: FlashlightSeclite
+
+- type: Tag
   id: EnergyCautery
 
 - type: Tag
@@ -35,6 +38,9 @@
 
 - type: Tag
   id: Hemostat
+  
+- type: Tag
+  id: LavalandJaunter
 
 - type: Tag
   id: LightTubeCrystalBlue
@@ -55,6 +61,12 @@
   id: MagazineLargeCaliber
 
 - type: Tag
+  id: MineralScanner
+
+- type: Tag
+  id: MiningDrill
+
+- type: Tag
   id: Photo
 
 - type: Tag
@@ -73,4 +85,13 @@
   id: ScienceTool
 
 - type: Tag
+  id: SeismicCharge
+
+- type: Tag
   id: Skills
+
+- type: Tag
+  id: TelescopicBaton
+
+- type: Tag
+  id: TelescopicShield
