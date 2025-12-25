@@ -264,6 +264,7 @@
   color: "#9FED58"
   weight: 5  # Mini-weights
   roles:
+  - RadioHost # Goobstation
   - Boxer
   - Reporter
   - Zookeeper

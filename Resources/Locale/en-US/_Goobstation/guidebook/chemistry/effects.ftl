@@ -20,28 +20,15 @@ reagent-effect-guidebook-deal-stamina-damage =
                     *[false] overtime
                   } stamina damage
 
-reagent-effect-guidebook-stealth-entities = Маскирует живых мобов поблизости.
+reagent-effect-guidebook-stealth-entities = Camouflages living mobs nearby.
 
-reagent-effect-guidebook-change-faction = Меняет фракцию моба на «{$faction}».
+reagent-effect-guidebook-change-faction = Changes the mob's faction to {$faction}.
 
-reagent-effect-guidebook-mutate-plants-nearby = Случайным образом мутирует ближайшие растения.
+reagent-effect-guidebook-mutate-plants-nearby = Randomly mutates nearby plants.
 
-reagent-effect-guidebook-dnascramble = Шифрует ДНК человека.
+reagent-effect-guidebook-dnascramble = Scrambles the person's DNA.
 
-reagent-effect-guidebook-change-species = Превращает цель в {$species}.
+reagent-effect-guidebook-change-species = Turns the target into a {$species}
 
-reagent-effect-guidebook-sex-change = Меняет гендер человека.
+reagent-effect-guidebook-sex-change = Swaps the person's gender
 
-reagent-effect-guidebook-immunity-modifier =
-    { $chance ->
-        [1] Modifies
-        *[other] modify
-    } immunity gain rate by {NATURALFIXED($gainrate, 5)}, strength by {NATURALFIXED($strength, 5)} for at least {NATURALFIXED($time, 3)} {MANY("second", $time)}
-
-reagent-effect-guidebook-disease-progress-change =
-    { $chance ->
-        [1] Modifies
-        *[other] modify
-    } progress of {$type} diseases by {NATURALFIXED($amount, 5)}
-
-reagent-effect-guidebook-disease-mutate = Mutates diseases by {NATURALFIXED($amount, 4)}

@@ -29,7 +29,7 @@ public sealed partial class DiseaseProgressChange : EntityEffect
         return Loc.GetString("reagent-effect-guidebook-disease-progress-change",
             ("chance", Probability),
             ("type", prototype.Index<DiseaseTypePrototype>(AffectedType).LocalizedName),
-            ("modifier", ProgressModifier)); // Изменено с "amount" на "modifier"
+            ("amount", ProgressModifier));
     }
 
     public override void Effect(EntityEffectBaseArgs args)

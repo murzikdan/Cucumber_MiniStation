@@ -89,7 +89,6 @@
   - FauxTileAstroIce
   - FauxTileAstroSnow
   - FauxTileAstroAsteroidSand
-  - TileItemBluespace # Corvax-Goob-BluespaceTile
 
 - type: latheRecipePack
   id: ScienceBoards

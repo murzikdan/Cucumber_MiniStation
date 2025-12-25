@@ -1181,8 +1181,8 @@
       blacklist:
         components:
           - SurplusBundle
-          
-- type: listing 
+
+- type: listing
   id: UplinkOmnimedToolSyndie # CorvaxGoob
   name: uplink-omnimed-tool-syndie-name
   description: uplink-omnimed-tool-syndie-desc

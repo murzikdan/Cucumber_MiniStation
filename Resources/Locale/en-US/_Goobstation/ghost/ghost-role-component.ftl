@@ -57,6 +57,10 @@ ghost-role-information-plague-mouse-description = Голодная и озорн
 
 ghost-role-information-trevor-name = Тревор
 ghost-role-information-trevor-description = Верный боевой конь службы безопасности.
+ghost-role-information-sentient-shark-name = Sentient Sharkminnow
+ghost-role-information-plague-mouse-name = Зараженная мышь
+ghost-role-information-plague-mouse-description = A hungry and mischievous mouse. This one carries a disease and will spread it on bite.
+
 
 # Half Life
 

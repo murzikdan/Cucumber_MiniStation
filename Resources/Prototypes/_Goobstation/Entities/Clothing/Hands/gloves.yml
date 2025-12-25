@@ -441,7 +441,7 @@
     tags: [] # ignore "WhitelistChameleon" tag
 
 - type: entity
-  parent: [ClothingHandsGlovesCombat, BaseSyndicateContraband]
+  parent: [BaseSyndicateContraband, ClothingHandsGlovesCombat]
   id: ClothingHandsGlovesGuerrilla
   name: партизанские перчатки
   description: Перчатки высшего качества для рукопашного боя, хорошо подходят для захватов, а также поглощают электрические разряды.
