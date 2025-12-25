@@ -51,15 +51,12 @@ ghost-role-information-diplomat-description = Представляйте Цен�
 ghost-role-information-inspector-name = Ревизор Центрального командования
 ghost-role-information-inspector-description = Проводите инспекции активов станции и её экипажа. Вероятно, умрёте в ужасной аварии и вызовете эскадрон смерти.
 
-ghost-role-information-sentient-shark-name = Разумная акула
 ghost-role-information-plague-mouse-name = Чумная мышь
 ghost-role-information-plague-mouse-description = Голодная и озорная мышь. Эта переносит болезнь и будет распространять её при укусе.
 
 ghost-role-information-trevor-name = Тревор
 ghost-role-information-trevor-description = Верный боевой конь службы безопасности.
 ghost-role-information-sentient-shark-name = Sentient Sharkminnow
-ghost-role-information-plague-mouse-name = Зараженная мышь
-ghost-role-information-plague-mouse-description = A hungry and mischievous mouse. This one carries a disease and will spread it on bite.
 
 
 # Half Life

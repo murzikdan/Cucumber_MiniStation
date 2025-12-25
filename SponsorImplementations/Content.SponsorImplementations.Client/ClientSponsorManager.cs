@@ -42,7 +42,8 @@ internal sealed class ClientSponsorManager : ISharedSponsorsManager, ISponsorUpd
 
     public bool TryGetServerPrototypes(NetUserId userId, [NotNullWhen(true)] out List<string>? prototypes)
     {
-        throw new NotImplementedException();
+        prototypes = new List<string>(); //mini
+            return false; //mini
     }
 
     public bool TryGetServerOocColor(NetUserId userId, [NotNullWhen(true)] out Color? color)

@@ -97,6 +97,6 @@ public sealed partial class PlantHolderComponent : Component
     [DataField]
     public string SoilSolutionName = "soil";
 
-    [DataField, NonSerialized]
+    [ViewVariables]
     public Entity<SolutionComponent>? SoilSolution = null;
 }
