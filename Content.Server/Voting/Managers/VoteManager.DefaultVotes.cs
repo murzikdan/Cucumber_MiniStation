@@ -641,7 +641,7 @@ namespace Content.Server.Voting.Managers
                     continue;
                 if(preset.ModeTitle == "survivalplus-title" && _playerManager.PlayerCount<25)
                     continue;
-                if(preset.ModeTitle == "secretplus-mid-title" && _playerManager.PlayerCount<15)
+                if(preset.ModeTitle == "secretplus-mid-title" && _playerManager.PlayerCount<20)
                     continue;
                 if(preset.ModeTitle == "rev-title" && _playerManager.PlayerCount<30)
                     continue;
