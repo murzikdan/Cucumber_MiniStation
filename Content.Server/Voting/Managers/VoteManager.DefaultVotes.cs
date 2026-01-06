@@ -635,7 +635,7 @@ namespace Content.Server.Voting.Managers
                     continue;
                 if(preset.ModeTitle == "traitor-title" && _playerManager.PlayerCount<5)
                     continue;
-                if(preset.ModeTitle == "nukeops-title" && _playerManager.PlayerCount<20)
+                if(preset.ModeTitle == "nukeops-title" && _playerManager.PlayerCount<25)
                     continue;
                 if(preset.ModeTitle == "cosmiccult-title" && _playerManager.PlayerCount<20)
                     continue;
