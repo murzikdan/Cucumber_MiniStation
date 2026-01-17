@@ -2,6 +2,7 @@
 - type: gameMapPool
   id: DefaultMapPool
   maps:
+  - MiniSilly
   - Atlas
   - Amber
   - Bagel
